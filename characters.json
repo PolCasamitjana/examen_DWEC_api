@@ -1,0 +1,93 @@
+[
+    {
+      "nom": "Luigi",
+      "atac": 85,
+      "defensa": 75,
+      "velocitat": 9,
+      "salut": 100,
+      "descripcio": "Luigi és el germà petit de Mario. Tot i que a vegades viu a l'ombra del seu germà, Luigi és valent i sempre està llest per a l'aventura.",
+      "foto": "/images/luigi.png"
+    },
+    {
+      "nom": "Mario",
+      "atac": 80,
+      "defensa": 70,
+      "velocitat": 8,
+      "salut": 100,
+      "descripcio": "Mario és el fontaner més famós del Regne Xampinyó. Amb el seu pantaló vermell i barret, sempre està llest per afrontar nous reptes i salvar la princesa Peach.",
+      "foto": "/images/mario.png"
+    },
+    {
+      "nom": "Link",
+      "atac": 88,
+      "defensa": 82,
+      "velocitat": 7,
+      "salut": 100,
+      "descripcio": "Link és l'heroi d'Hyrule. Amb la seva espasa mestra i escut, es llança a valentes aventures per derrotar enemics i salvar el regne de la Princesa Zelda.",
+      "foto": "/images/link.png"
+    },
+    {
+      "nom": "Samus",
+      "atac": 85,
+      "defensa": 75,
+      "velocitat": 9,
+      "salut": 100,
+      "descripcio": "Samus Aran és una caçadora de recompenses intergalàctica. Dins del seu poderós vestit, lluita contra alienígenes i villans per protegir la galàxia.",
+      "foto": "/images/samus.png"
+    },
+    {
+        "nom": "Donkey Kong",
+        "atac": 92,
+        "defensa": 85,
+        "velocitat": 7,
+        "salut": 110,
+        "descripcio": "Donkey Kong és un goril·la enorme amb una força increïble. Viu a la jungla i està sempre a punt per lluitar contra els seus enemics amb els seus potents cops.",
+        "foto": "/images/donkey_kong.png"
+      },
+      {
+        "nom": "Princess Peach",
+        "atac": 78,
+        "defensa": 72,
+        "velocitat": 9,
+        "salut": 95,
+        "descripcio": "La Princesa Peach és la regent del Regne Xampinyó. Encara que sovint és capturada per enemics, té habilitats excepcionals de regeneració i pot utilitzar el seu paraigües per defensar-se.",
+        "foto": "/images/peach.png"
+      },
+      {
+        "nom": "Fox McCloud",
+        "atac": 87,
+        "defensa": 80,
+        "velocitat": 10,
+        "salut": 90,
+        "descripcio": "Fox McCloud és el pilot expert de l'Star Fox Team. Amb la seva agilitat i el seu arsenal d'armes, és un adversari formidable en el camp de batalla.",
+        "foto": "/images/fox.png"
+      },
+      {
+        "nom": "Kirby",
+        "atac": 82,
+        "defensa": 78,
+        "velocitat": 8,
+        "salut": 100,
+        "descripcio": "Kirby és una bola rosa amb la capacitat d'absorbir les habilitats dels seus enemics. Això el fa versàtil en combat, ja que pot utilitzar les habilitats dels altres personatges.",
+        "foto": "/images/kirby.png"
+      },
+      {
+        "nom": "Zelda",
+        "atac": 85,
+        "defensa": 75,
+        "velocitat": 8,
+        "salut": 95,
+        "descripcio": "Zelda és la princesa d'Hyrule i té un gran poder màgic. Pot utilitzar la seva sabiduria i màgia per controlar el flux del temps i ajudar els seus aliats.",
+        "foto": "/images/zelda.png"
+      },
+      {
+        "nom": "Captain Falcon",
+        "atac": 90,
+        "defensa": 78,
+        "velocitat": 9,
+        "salut": 100,
+        "descripcio": "Captain Falcon és un pilot de carreres i un cazarrecompenses intergalàctic. La seva velocitat impressionant i els seus potents atacs fan d'ell un rival temible.",
+        "foto": "/images/captain_falcon.png"
+      }
+]
+  
