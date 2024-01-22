@@ -129,8 +129,8 @@ document.addEventListener('DOMContentLoaded', () => {
             // Bucle para la pelea hasta que uno de los personajes quede sin salud
             while (hpAtacante > 0 && hpDefensor > 0) {
                 // Turno de atacante
-                const ataque = statsAtacante[0];
-                const defensa = statsDefensor[1];
+                const ataque = atacante.atac;
+                const defensa = defensor.defensa;
 
             // Lógica de daño basada en la comparación de ataque y defensa
             if (ataque > defensa) {
